@@ -43,6 +43,10 @@ It helps identify top-performing vendors, low-performing vendors, and areas wher
 ├── dashboard/
 │   └── vendor_sales_dashboard.pbix
 ```
+## Dataset
+Download full dataset from here:
+https://drive.google.com/drive/folders/1EsJJMJgsjOcLr9fD31GpYtVE7-0wdF2H?usp=drive_link
+
 ## Key Metrics
 * Total Sales
 * Total Purchase
